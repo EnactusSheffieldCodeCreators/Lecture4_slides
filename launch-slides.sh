@@ -1,0 +1,1 @@
+reveal-md lecture4.md --css css/title-resizing.css
