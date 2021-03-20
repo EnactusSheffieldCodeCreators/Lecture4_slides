@@ -1,1 +1,1 @@
-reveal-md lecture4.md --css css/title-resizing.css
+reveal-md lecture4.md --css css/title-resizing.css,css/general.css

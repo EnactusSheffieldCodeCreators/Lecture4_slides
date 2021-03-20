@@ -1,0 +1,1 @@
+reveal-md lecture4.md --css css/title-resizing.css,css/general.css --print lecture4.pdf --puppeteer-launch-args="--no-sandbox --disable-dev-shm-usage --enable-local-file-accesses --allow-file-access-from-files"
