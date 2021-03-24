@@ -7,6 +7,13 @@ verticalSeparator: \>\>\>
 
 ---
 
+## Before we Begin
+
+- Mentoring sessions are no longer.
+- Get in contact on the discord server.
+
+---
+
 ## Lecture Overview
 
 - Why is OOP useful?
@@ -35,7 +42,8 @@ Note:
 
 ## Classes and Objects
 
-Insert demo image here
+![balls](assets/images/balls.png)
+
 
 Note:
 
@@ -194,7 +202,7 @@ $ python3 person.py
 
 ## Pointers
 
-\[Insert pointers explainer\]
+![pointers](assets/images/pointers.png)
 
 ---
 
